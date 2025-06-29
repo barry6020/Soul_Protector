@@ -1,0 +1,1 @@
+A simple game where you have to protect the center with your blue soul from red souls. Made with GDevelop. HTML export and save files are added. HTML only works on server. So create a python server(python -m http.server XXXX) to run it on your web browser.
